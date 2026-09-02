@@ -2,7 +2,7 @@
 
 int main(void) {
     printf("================\n");
-    printf("!Hola git hub¡\n");
+    printf("Hola git hub\n");
     printf("===============\n");
     printf("Mi nombre es: Fernando Matias\n");
     printf("Estoy aprendiendo programacion\n");
